@@ -1,0 +1,4 @@
+from day4.csvFileManager2 import CsvFilemanager2
+
+CsvFilemanager2
+#跨文件或者挎包调用和在同一个文件中调用方法，只差一个alt+enter
